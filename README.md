@@ -1,4 +1,4 @@
-# Light-Seeking-Robot
+# Light-Seeking-Rover
 
 I used Arduino to program a rover to seek out the brightest source of light in its environment and move towards it while avoiding obstacles in its path.
 
